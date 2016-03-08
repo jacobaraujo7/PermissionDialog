@@ -1,4 +1,3 @@
 # PermissionDialog
-Simple manager permissions for android
+Simple permissions manager for android
 
-text
